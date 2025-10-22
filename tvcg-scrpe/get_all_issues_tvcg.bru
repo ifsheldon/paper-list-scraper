@@ -1,0 +1,20 @@
+meta {
+  name: get_all_issues_tvcg
+  type: http
+  seq: 3
+}
+
+get {
+  url: https://ieeexplore.ieee.org/rest/publication/2945/regular-issues
+  body: none
+  auth: inherit
+}
+
+headers {
+  User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15
+  Referer: https://ieeexplore.ieee.org/xpl/issues?punumber=2945
+}
+
+settings {
+  encodeUrl: true
+}

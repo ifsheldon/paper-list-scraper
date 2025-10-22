@@ -1,0 +1,29 @@
+meta {
+  name: get_toc_page_2
+  type: http
+  seq: 1
+}
+
+post {
+  url: https://ieeexplore.ieee.org/rest/search/pub/2945/issue/11151252/toc
+  body: json
+  auth: inherit
+}
+
+headers {
+  User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15
+  Referer: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11151252&punumber=2945&sortType=vol-only-seq&pageNumber=2
+}
+
+body:json {
+  {
+    "isnumber": "11151252",
+    "punumber": "2945",
+    "sortType": "vol-only-seq",
+    "pageNumber": 2
+  }
+}
+
+settings {
+  encodeUrl: true
+}
