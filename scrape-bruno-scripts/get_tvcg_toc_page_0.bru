@@ -1,7 +1,7 @@
 meta {
-  name: get_toc_page_2
+  name: get_tvcg_toc_page_0
   type: http
-  seq: 1
+  seq: 3
 }
 
 post {
@@ -12,18 +12,18 @@ post {
 
 headers {
   User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15
-  Referer: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11151252&punumber=2945&sortType=vol-only-seq&pageNumber=2
+  Referer: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11151252&punumber=2945&sortType=vol-only-seq
 }
 
 body:json {
   {
     "isnumber": "11151252",
     "punumber": "2945",
-    "sortType": "vol-only-seq",
-    "pageNumber": 2
+    "sortType": "vol-only-seq"
   }
 }
 
 settings {
   encodeUrl: true
+  timeout: 0
 }

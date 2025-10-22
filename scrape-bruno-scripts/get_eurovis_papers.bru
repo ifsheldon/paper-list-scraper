@@ -1,0 +1,27 @@
+meta {
+  name: get_eurovis_papers
+  type: http
+  seq: 1
+}
+
+get {
+  url: https://diglib.eg.org/server/api/discover/browses/title/items?scope=da03e00f-81f6-449d-83cb-b687c9744c8d&sort=dc.title,ASC&page=13&size=20
+  body: json
+  auth: inherit
+}
+
+params:query {
+  scope: da03e00f-81f6-449d-83cb-b687c9744c8d
+  sort: dc.title,ASC
+  page: 13
+  size: 20
+}
+
+headers {
+  User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

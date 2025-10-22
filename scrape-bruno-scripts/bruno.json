@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "name": "tvcg-scrpe",
+  "name": "scrape-scripts",
   "type": "collection",
   "ignore": [
     "node_modules",
