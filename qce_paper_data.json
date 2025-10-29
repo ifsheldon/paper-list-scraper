@@ -1,0 +1,164 @@
+[
+    {
+        "title": "Quantum Error Correction for Kids",
+        "document_link": "/document/10821218/",
+        "abstract": "This extended abstract presents an intuitive gamified approach to one of the core concepts in quantum error correction: the stabiliser formalism. The game gradually builds up complexity and takes the players from classical repetition codes to Calderbank-Shor-Steane (CSS) codes. Through its lightweight mechanics, the game offers a glimpse into the notions of communication channel, noise and encodin...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "QuantumCrypto: A Web Framework for Quantum Cryptography Education",
+        "document_link": "/document/10821152/",
+        "abstract": "Quantum cryptography protocols leverage fundamental quantum computing principles such as superposition and entanglement, making them valuable tools for quantum computing education. While existing web platforms offer interactive interfaces to experiment with these protocols, none of them exploits the context in which cryptographic tasks are conducted: real-time communication between parties. We int...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "QGrover: Teaching Grover's Algorithm Through Visual Exploration",
+        "document_link": "/document/10821077/",
+        "abstract": "Quantum Computing is a rapidly growing field that requires a multidisciplinary workforce. In order to successfully educate this up-and-coming workforce, it is crucial that Quantum Computing Education is filled with a variety of tools that support different backgrounds and learning styles. Incorporating visual exploration into learning allows for the use of multiple learning channels and can promot...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "QNotation: A Visual Browser-Based Notation Translator for Learning Quantum Computing",
+        "document_link": "/document/10821137/",
+        "abstract": "One of the initial challenges of learning Quantum Computing is understanding the different notations used in the field. It is crucial that learners understand the different notations used in Quantum Computing in order to ensure that they can develop a robust comprehension of the field by being able to make use of variety of resources. Depending on their technical background, some learners may stru...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Developing an Undergraduate Quantum Workforce",
+        "document_link": "/document/10821192/",
+        "abstract": "To fulfill the growing demand for the future workforce in quantum, we need to come up with workforce development programs at the undergraduate level. This paper reflects on discussions with industry professionals and academics that have indicated the need for a future quantum workforce, including all levels of post-secondary education, and it presents an exploration of an experiential learning ped...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Developing a Framework for Personalized Video-Based Quantum Information Science Education",
+        "document_link": "/document/10821026/",
+        "abstract": "This is a white paper on Workforce Development for Quantum Information Sciences (QIS) led by the Center for Real-Time Computing at Old Dominion University (ODU). We plan to investigate the potential of video lectures in supporting QIS. Specifically, we focus on following four objectives: ($a$) design a two-course series for both Master-level and PhD students; b) an upgrade of Experimental Lecture ...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Driving Quantum Literacy: Multi-Stakeholder Collaborative Efforts in Philippine Education",
+        "document_link": "/document/10821063/",
+        "abstract": "Recent advancements in quantum computing have sparked tremendous interest among students, professors, and enthusiasts, driving a surge in exploration and inquiry. To harness this momentum effectively, collaboration between research institutions, universities, and enthusiast communities is imperative. Furthermore, there&#39;s a pressing need to enhance quantum literacy among students and experts from a...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Niel's Chess: A Quantum Game for Schools and the General Public",
+        "document_link": "/document/10821177/",
+        "abstract": "In this paper, a quantum variant of chess is introduced, which can be played on a traditional board, without using computers or other electronic devices. The rules of the game arise naturally by combining the rules of conventional chess with key quantum-physical effects such as superposition and entanglement. Niel&#39;s Chess is recommended for ages 10 and above, to everyone who wishes to play a creat...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Entangling Disciplines: Causality, Entropy and Time-Travel Paradoxes on a Quantum Computer",
+        "document_link": "/document/10821174/",
+        "abstract": "Merging disciplines has led to incredible learnings and breakthroughs throughout history, including the discovery of quantum computing: a cross between computation and quantum physics. In this paper, I will discuss how we can cross quantum computing with topics in fundamental physics. This leads to fruitful, interactive learning opportunities that fuse deep open physics problems with key insights ...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Why Teach Quantum on Your Own Time: The Values of Grassroots Organisations Involved in Quantum Technologies Education and Outreach",
+        "document_link": "/document/10821125/",
+        "abstract": "This paper examines the intersection of goals and values within grassroots organizations operating in the realm of quantum technologies (QT) education. It delineates a fundamental distinction between the objective to provide education and the drive to democratize learning through principles of inclusivity, accessibility, and diversity. The analysis reveals how these organizations navigate their na...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Quantum Computing Society of the Philippines: An NGO Perspective on Promoting Quantum Information, Science, and Technology in the Philippines",
+        "document_link": "/document/10821226/",
+        "abstract": "The development of Quantum Information Science and Technology (QIST) as an emerging technology among developed and developing countries has caught the attention of governments, industries, and educational institutions. However, not all countries have equal starting points in promoting QIST amongst different sectors. Several players in various countries promote QIST as a discipline and education. A...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Forging Pathways: Quantum Computing Initiatives in Mexico",
+        "document_link": "/document/10821124/",
+        "abstract": "This work presents establishing a nationwide university network to address the relevance of quantum computing, where challenges and opportunities for industry and academia focus from undergraduate to doctoral levels. The network comprises a series of talks on opportunities in the quantum computing ecosystem and potential collaborations and development opportunities aimed at Latin American countrie...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Bridging the Quantum Education Gap: Hands-on Visualization Projects for Quantum Search Algorithm",
+        "document_link": "/document/10821097/",
+        "abstract": "Quantum education has been increasingly emphasized at both the post-secondary and secondary education stages, in line with the advent of the quantum computing paradigm. Traditional quantum computing education, however, necessitates an extensive background in physics, mathematics, and information science, which can be challenging for beginners. This study presents the experience of implementing a c...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Quantum Horizons: Examining the Scope of Quantum Computing in Latin American Universities",
+        "document_link": "/document/10821190/",
+        "abstract": "This paper systematically investigates the educational contributions of Latin American institutions in the field of quantum computing. Utilizing the Scopus database, we refined a dataset of 1,245 articles to ensure accurate affiliation with Latin American entities from 2021 to the present. Our study reveals that 1,099 of these papers are affiliated with universities ranked in the QS Latin America ...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "QUINTET: An Experiential Learning Platform for Quantum Education",
+        "document_link": "/document/10821128/",
+        "abstract": "This paper describes the conceptual framework behind QUINTET, an experiential learning platform, for education and workforce development in secure quantum communication, quantum networks and quantum computation. The platform enables users to generate lessons using QUINTET engine while specifying learning objectives and constraints. The engine composes the required learning objects using fractional...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Quantum Game Club: Engaging with Quantum Computing Through Interactive Learning",
+        "document_link": "/document/10821155/",
+        "abstract": "With the rapid evolution of quantum computing, education in quantum technology should encompass both theoretical knowledge and practical applications relevant to industry and research. We aim to create an educational model that integrates learning, application, and research in quantum computing for students of all levels. Bridging the gap between coursework and active research, a club led by stude...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Why Teach Quantum?: Elementary Teachers Initial Beliefs About Quantum",
+        "document_link": "/document/10821202/",
+        "abstract": "This paper examines the initial beliefs held by elementary educators (n=1l) and their students about teaching and learning quantum concepts at the elementary level. All teachers were participants in a grant-funded project focused on developing teachers&#39; quantum content knowledge and creating curricular resources to use in elementary classrooms. Although elementary teachers had limited knowledge of...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    },
+    {
+        "title": "Towards Robust Benchmarking of Quantum Optimization Algorithms",
+        "document_link": "/document/11030870/",
+        "abstract": "Benchmarking the performance of quantum optimization algorithms is crucial for identifying utility for industry-relevant use cases. However, Benchmarking processes most often vary between optimization applications and depend on user-specified goals. The heuristic nature of quantum algorithms additionally poses a challenge, especially in the comparison to classical algorithms. A key problem in exis...",
+        "year": "2024",
+        "date": "15-20 Sept. 2024",
+        "publication_id": "10821005",
+        "issue_id": "10820986"
+    }
+]
